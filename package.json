@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "cross-env PLATFORM=web NODE_OPTIONS=--openssl-legacy-provider nuxt dev",
+    "dev-android": "cross-env PLATFORM=android NODE_OPTIONS=--openssl-legacy-provider nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image": "^0.7.1",
+    "@nuxtjs/tailwindcss": "^6.2.0",
+    "@vueuse/core": "^9.9.0",
+    "@vueuse/nuxt": "^9.9.0",
+    "cross-env": "^7.0.3",
+    "nuxt": "3.0.0",
+    "nuxt-lodash": "^2.4.1",
+    "pinyin-pro": "^3.13.0"
+  },
+  "dependencies": {
+    "@pinia-plugin-persistedstate/nuxt": "^1.0.0",
+    "@pinia/nuxt": "^0.4.6",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "cheerio": "1.0.0-rc.12",
+    "element-plus": "^2.2.27",
+    "lodash": "^4.17.21"
+  }
+}

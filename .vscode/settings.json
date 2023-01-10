@@ -1,0 +1,8 @@
+{
+    "go.inferGopath": false,
+    "vetur.grammar.customBlocks": {
+        "docs": "md",
+        "tools-meta": "json",
+        "i18n": "json"
+    }
+}

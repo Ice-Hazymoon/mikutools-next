@@ -1,0 +1,56 @@
+[
+    {
+        "title": "只有神知道的世界",
+        "icon": "cube-outline",
+        "vip": true,
+        "key": "vip"
+    },
+    {
+        "title": "热门",
+        "icon": "thermometer-plus-outline",
+        "vip": false,
+        "key": "hot"
+    },
+    {
+        "title": "其他工具",
+        "icon": "layers-outline",
+        "vip": false,
+        "key": "other"
+    },
+    {
+        "title": "数据换算",
+        "icon": "repeat-outline",
+        "vip": false,
+        "key": "data-conversion"
+    },
+    {
+        "title": "图片相关",
+        "icon": "image-outline",
+        "vip": false,
+        "key": "image"
+    },
+    {
+        "title": "文字处理",
+        "icon": "text-outline",
+        "vip": false,
+        "key": "text"
+    },
+    {
+        "title": "编程开发",
+        "icon": "code-outline",
+        "vip": false,
+        "key": "development"
+    },
+    {
+        "title": "过气工具",
+        "icon": "cube-outline",
+        "vip": false,
+        "key": "obsolete"
+    },
+    {
+        "title": "网站相关",
+        "icon": "settings-2-outline",
+        "vip": false,
+        "key": "mikutools"
+    }
+]
